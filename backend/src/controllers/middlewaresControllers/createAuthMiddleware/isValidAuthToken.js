@@ -3,6 +3,9 @@ const jwt = require('jsonwebtoken');
 const mongoose = require('mongoose');
 
 const isValidAuthToken = async (req, res, next, { userModel, jwtSecret = 'JWT_SECRET' }) => {
+  if (req.path === '/register') {
+    return next();
+  }
   try {
     const UserPassword = mongoose.model(userModel + 'Password');
     const User = mongoose.model(userModel);
