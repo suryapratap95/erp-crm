@@ -7,6 +7,10 @@ const resetPassword = require('./resetPassword');
 const createAuthMiddleware = (userModel) => {
   let authMethods = {};
 
+  if (req.path === '/register') {
+    return next();
+  }
+
   authMethods.isValidAuthToken = (req, res, next) =>
     isValidAuthToken(req, res, next, {
       userModel,
