@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://www.idurarapp.com/">
+    <a href="https://www.ideatomvp.ai/">
   <img src="https://avatars.githubusercontent.com/u/50052356?s=200&v=4" width="128px" />
     </a>
     <h1>Open "Fair-Code" Source ERP / CRM | Node.js React.js</h1>
@@ -7,7 +7,7 @@
         <p>IDURAR ERP CRM | Simple To Use | 44 Languages </p>
     </p>
     
-  [www.idurarapp.com/open-source-erp-crm/](https://www.idurarapp.com/open-source-erp-crm/)
+  [www.ideatomvp.ai/open-source-erp-crm/](https://www.ideatomvp.ai/open-source-erp-crm/)
 
 ## 🇦🇱 🇩🇿 🇧🇩 🇧🇬 🇨🇳 🇭🇷 🇨🇿 🇩🇰 🇳🇱 🇺🇸 🇪🇪 🇫🇷 🇩🇪 🇬🇷 🇮🇳 🇭🇺 🇮🇩 🇮🇹 🇯🇵 🇰🇷 🇱🇻 🇱🇹 🇲🇰 🇲🇾 🇳🇴 🇵🇱 🇧🇷 🇵🇹 🇮🇷 🇷🇴 🇷🇺 🇸🇰 🇸🇮 🇪🇸 🇸🇪 🇹🇭 🇹🇷 🇺🇦 🇵🇰 🇻🇳 🇷🇸 🇪🇦 🇵🇭 🇫🇮
 
@@ -15,7 +15,7 @@ IDURAR is Open "Fair-Code" Source ERP / CRM (Invoice / Inventory / Accounting / 
 
 </div>
 
-**Live App Free Cloud Version** : [https://www.idurarapp.com/demo-erp-crm/](https://www.idurarapp.com/demo-erp-crm/)
+
 
 ```
 🚀 Give a Star ⭐️ & Fork to this project ... Happy coding! 🤩`
@@ -30,9 +30,7 @@ IDURAR is Open "Fair-Code" Source ERP / CRM (Invoice / Inventory / Accounting / 
 IDURAR is Free Open Source [fair-code](http://faircode.io) distributed under the
 [**IDURAR License 1.0**](https://github.com/idurar/idurar-erp-crm/blob/master/LICENSE)
 
-### Upgrade to IDURAR Premium :
 
-- [https://cloud.idurarapp.com/checkout/selfhosted/month/pri_01hyjjay1njx5vz1z6e1vdy1eg](https://cloud.idurarapp.com/checkout/selfhosted/month/pri_01hyjjay1njx5vz1z6e1vdy1eg)
 
 ## Features :
 
@@ -52,7 +50,7 @@ Based on Mern Stack (Node.js / Express.js / MongoDb / React.js ) 👨‍💻
 
 ### For custom developement service or premium Support :
 
-[Get in touch](mailto:hello@idurarapp.com)
+[Get in touch](mailto:surya@ideatomvp.ai)
 
 ## How To Deploy IDURAR ERP CRM :
 
@@ -63,9 +61,7 @@ The Webinar will be this Wednesday at 1pm GMT.
 
 ## Our Sponsors
 
-  <a href="https://m.do.co/c/4ead8370b905?ref=idurarapp.com">
-    <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/PoweredByDO/DO_Powered_by_Badge_blue.svg" width="201px">
-  </a>
+ 
 
 #
 
@@ -75,7 +71,7 @@ The Webinar will be this Wednesday at 1pm GMT.
 
 IDURAR is Open "Fair-Code" Source ERP / CRM (Invoice / Inventory / Accounting / HR) Based on Mern Stack (Node.js / Express.js / MongoDb / React.js ) with Ant Design (AntD) and Redux
 
-**Live App Demo** : [https://www.idurarapp.com/demo-erp-crm/](https://www.idurarapp.com/demo-erp-crm/)
+
 
 ## Getting started
 
@@ -133,7 +129,7 @@ This will build the images and bring up the containers for frontend, backend and
 
 ## Custom Development Service
 
-Custom Development Service are available : [Get in touch](mailto:hello@idurarapp.com)
+Custom Development Service are available : [Get in touch](mailto:surya@ideatomvp.ai)
 
 ## Show your support
 
