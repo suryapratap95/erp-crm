@@ -43,8 +43,6 @@ services:
       - mongodb_data:/data/db
     networks:
       - server-mongo
-    ports:
-      - "27017:27017" 
 
   nginx:
     image: nginx:latest
