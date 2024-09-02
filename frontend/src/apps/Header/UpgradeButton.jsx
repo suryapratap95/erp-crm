@@ -38,23 +38,23 @@ const SelfHostedPlan = () => {
   );
 };
 
-// export default function UpgradeButton() {
-//   const translate = useLanguage();
-//   const Content = () => {
-//     return (
-//       <SelfHostedPlan />
-//       //   <p>{translate('Do you need help on customize of this app')}</p>
-//       //   <Button
-//       //     type="primary"
-//       //     onClick={() => {
-//       //       window.open(`https://www.idurarapp.com/contact-us/`);
-//       //     }}
-//       //   >
-//       //     {translate('Contact us')}
-//       //   </Button>
-//       // </>
-//     );
-//   };
+export default function UpgradeButton() {
+  const translate = useLanguage();
+  const Content = () => {
+    return (
+      <SelfHostedPlan />
+      //   <p>{translate('Do you need help on customize of this app')}</p>
+      //   <Button
+      //     type="primary"
+      //     onClick={() => {
+      //       window.open(`https://www.idurarapp.com/contact-us/`);
+      //     }}
+      //   >
+      //     {translate('Contact us')}
+      //   </Button>
+      // </>
+    );
+  };
 
   return (
     <Popover content={<Content />} trigger="click">
